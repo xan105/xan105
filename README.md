@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" width="180" height="297" src="https://github.com/xan105/xan105/raw/master/miku.gif">
 
-<!--
-**xan105/xan105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hobbyist programmer from Belgium 🍫🍺🍟 currently located in Thailand 🙏.<br />
+Trying to build cool stuff in my spare time.<br />
+Obviously open source 😁😎.
 
-Here are some ideas to get you started:
+💻 Nowadays I'm mainly using _JS_ and _GoLang_.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get in touch
+============
+
++ 🌍 https://xan105.com
++ ✉️ https://telegram.me/xan105
