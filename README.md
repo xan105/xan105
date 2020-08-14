@@ -10,4 +10,6 @@ Get in touch
 ============
 
 + 🌍 https://xan105.com
++ 💝 https://www.patreon.com/xan105
 + ✉️ https://telegram.me/xan105
++ 💰 https://www.paypal.me/xan105
