@@ -1,15 +1,15 @@
-<img align="right" width="180" height="297" src="https://github.com/xan105/xan105/raw/master/miku.gif">
+<img align="right" width="180" height="297" src="https://raw.githubusercontent.com/xan105/xan105/master/miku.gif">
 
 Hobbyist programmer from Belgium 🍫🍺🍟 currently located in Thailand 🙏.<br />
 Trying to build cool stuff in my spare time.<br />
 Obviously open source 😁😎.
 
-💻 Nowadays I'm mainly using _JS_ and _GoLang_.
+## Get in touch
 
-Get in touch
-============
++ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" height="16"> [Telegram](https://telegram.me/xan105)
++ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/discord.svg" height="16"> [Discord](https://discord.com/users/200874879153602561)
 
-+ 🌍 https://xan105.com
-+ 💝 https://www.patreon.com/xan105
-+ ✉️ https://telegram.me/xan105
-+ 💰 https://www.paypal.me/xan105
+## Support / Donate
+
++ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/paypal.svg" height="16"> [PayPal](https://www.paypal.me/xan105)
++ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/patreon.svg" height="16"> [Patreon](https://www.patreon.com/xan105)
