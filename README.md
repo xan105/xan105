@@ -9,7 +9,6 @@ If you like what I do consider checking out [my GitHub Sponsors page](https://gi
 ### Get in touch
 
 + <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" height="16"> [Telegram](https://telegram.me/xan105)
-+ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/discord.svg" height="16"> [Discord](https://discord.com/users/200874879153602561)
 
 ### Support / Donate
 
