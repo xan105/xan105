@@ -14,4 +14,3 @@ If you like what I do consider checking out [my GitHub Sponsors page](https://gi
 
 + <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" height="16"> [GitHub Sponsors](https://github.com/sponsors/xan105)
 + <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/paypal.svg" height="16"> [PayPal](https://www.paypal.me/xan105)
-+ <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/patreon.svg" height="16"> [Patreon](https://www.patreon.com/xan105)
