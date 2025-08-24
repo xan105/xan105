@@ -2,7 +2,7 @@
 
 Hobbyist programmer from Belgium 🍫🍺🍟 currently located in Thailand 🙏.<br />
 Trying to build cool stuff in my spare time.<br />
-I'm a passionate advocate for open source 🤓.
+Open source is something I strongly believe in 🤓.
 
 If you like what I do consider checking out [my GitHub Sponsors page](https://github.com/sponsors/xan105) 🤗.
 
